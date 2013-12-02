@@ -1,2 +1,0 @@
-django-nagios-monitoring
-========================
